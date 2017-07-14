@@ -1,1 +1,0 @@
-# jasonkuruzovich.com
