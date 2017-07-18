@@ -14,15 +14,6 @@
     
     <url>
     
-      <loc>http://jasonkuruzovich.com/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://jasonkuruzovich.com/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -41,16 +32,7 @@
     
     <url>
     
-      <loc>http://jasonkuruzovich.com/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://jasonkuruzovich.com/project/deep-learning/</loc>
+      <loc>http://jasonkuruzovich.com/research/auctions/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +41,25 @@
     
     <url>
     
-      <loc>http://jasonkuruzovich.com/project/example-external-project/</loc>
+      <loc>http://jasonkuruzovich.com/entrepreneurship/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jasonkuruzovich.com/research/research/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jasonkuruzovich.com/entrepreneurship/severino/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -161,6 +161,16 @@
     
     <url>
     
+      <loc>http://jasonkuruzovich.com/tags/auctions/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jasonkuruzovich.com/categories/</loc>
       <priority>0</priority>
     </url>
@@ -190,6 +200,26 @@
     
     <url>
     
+      <loc>http://jasonkuruzovich.com/tags/economics/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jasonkuruzovich.com/entrepreneurship/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://jasonkuruzovich.com/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -210,7 +240,17 @@
     
     <url>
     
-      <loc>http://jasonkuruzovich.com/project/</loc>
+      <loc>http://jasonkuruzovich.com/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://jasonkuruzovich.com/tags/publications/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -220,8 +260,8 @@
     
     <url>
     
-      <loc>http://jasonkuruzovich.com/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>http://jasonkuruzovich.com/research/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

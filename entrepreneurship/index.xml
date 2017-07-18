@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning on </title>
-    <link>http://jasonkuruzovich.com/tags/deep-learning/</link>
-    <description>Recent content in Deep Learning on </description>
+    <title>Entrepreneurships on </title>
+    <link>http://jasonkuruzovich.com/entrepreneurship/</link>
+    <description>Recent content in Entrepreneurships on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jason Kuruzovich</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/deep-learning/" rel="self" type="application/rss+xml" />
+    <atom:link href="/entrepreneurship/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Foundry</title>
+      <link>http://jasonkuruzovich.com/entrepreneurship/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/entrepreneurship/example-external-project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>severino</title>
